@@ -1,6 +1,6 @@
 #  Servicio de Autenticación con Registro de Login
 
-**Autor:** Christian Sánchez
+**Autor:** Christian Sánchez, Desarrollador Backend.
 
 ## Instrucciones de ejecución
 
